@@ -2,6 +2,8 @@
 
 This is an overview of running Hackintosh MacOS Monterey 12.7.3 on my SONY VAIO with an Intel i3-6100U processor.
 
+![Captura de Pantalla 2025-03-18 a la(s) 17 09 44](https://github.com/user-attachments/assets/17fa970f-f7d6-4e61-aad9-b602b697da95)
+
 ## Hardware
 
 - CPU: Intel Core i3-6100U 2.3Ghz
